@@ -15,11 +15,11 @@ Anything rendered with this polygon will cover the whole world except the area i
 
 ### Raw geometry on geojson.io
 
-![geojson.io screenshot showing the mask polygon](screenshots/geojson-io-preview.png)
+<img width="1155" height="704" alt="geojson_io___Powered_by_Mapbox_and_2026_Grading_-_Google_Docs" src="https://github.com/user-attachments/assets/470034e0-071d-4182-b7de-71e4cc44806e" />
 
 ### In use in the NYC Public Spaces app
 
-![Screenshot of the mask in use in the NYC Public Spaces web map](screenshots/nyc-public-spaces-in-use.png)
+<img width="944" height="620" alt="Cursor_and_NYC_Public_Space_and_Editing_nyc-boundary-mask-ge…g_nyc-boundary-mask-geojson" src="https://github.com/user-attachments/assets/ef838a36-82ca-4996-b35c-00a00b900679" />
 
 ## How it was created
 
