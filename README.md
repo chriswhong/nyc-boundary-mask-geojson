@@ -1,6 +1,6 @@
 # NYC Boundary Mask GeoJSON
 
-`nyc_tiles.geojson` is a GeoJSON Polygon that covers the entire planet with an NYC-shaped hole cut out of it. This is useful for **masking** or subduing areas outside of New York City when building web maps that feature NYC-specific basemap content — for example, rendering a semi-transparent fill over everything except the five boroughs.
+`nyc_tiles.geojson` is a GeoJSON Polygon that covers the entire planet with an NYC-shaped hole cut out of it. This is useful for **masking** or subduing areas outside of New York City when building web maps that feature NYC-specific data overlays — for example, rendering a semi-transparent fill over everything except the five boroughs.
 
 ## How it works
 
